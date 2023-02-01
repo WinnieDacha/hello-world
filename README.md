@@ -1,3 +1,5 @@
 # hello-world
 My first repository on GitHub
-I love :kenya:.
+
+
+I love :kenya:,:Coffee:,Pizza:.
